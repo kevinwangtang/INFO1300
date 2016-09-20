@@ -1,0 +1,66 @@
+/*
+INFO 1300
+Jiannan Wang
+jw787
+*/
+
+html, body {
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+body {
+    background-color: lightblue;
+    font-family: Ovo, serif;
+    font-size: 0.9em;
+}
+
+code {
+    font-family: Courier, monospace;
+}
+
+h3 {
+    font-family: Muli, sans-serif;}
+
+
+
+#banner {
+    background-color: darkblue;
+    color: #ffffff;
+    width: 100%;
+}
+
+#banner > h1 {
+    font-family: Ovo, serif;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    max-width: 960px;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+#nav{
+    border-bottom: solid 2px #fdae61;
+    font-family: Muli, sans-serif;
+    margin-right: auto;
+    margin-bottom: 1em;
+    margin-left: auto;
+    max-width: 960px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+#wrapper {
+    width: 100%;
+}
+
+#content {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+}
